@@ -6,10 +6,6 @@ sudo apt update && apt upgrade
 git clone https://github.com/nestore5446/SAUL-TEAM-TOOL
 cd saul\ team/
 python saulteam.py
-# TERMUX INSTALATION
-git clone https://github.com/nestore5446/SAUL-TEAM-TOOL
-cd saul\ team/
-python saulteam.py
 # SOCIAL NETWORKS
 Youtube: https://www.youtube.com/@Termuxcybersecurityspace
 Youtube: https://www.youtube.com/channel/UC7ddx4-3adaQcX65nPEfdGA
